@@ -31,4 +31,17 @@ Questions:
 
 ### Warehouse & Geographic Insights
 9. Which warehouse location has the highest number of products stored?
-10. Which country has the most stocked items, and which top 3 counties have the highest stocked quantities by different product categories? 
+10. Which country has the most stocked items, and which top 3 counties have the highest stocked quantities by different product categories?
+
+
+
+![page1](https://github.com/user-attachments/assets/82d57320-aebe-42e7-8724-bec45c3f97aa)
+
+![page2](https://github.com/user-attachments/assets/a9b96c67-a6c5-4df0-aa88-1a08276fe674)
+
+![page3](https://github.com/user-attachments/assets/ce7acc5c-a98a-46c3-86ca-b66b33508b7d)
+
+
+
+
+
