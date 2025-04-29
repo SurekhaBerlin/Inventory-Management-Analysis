@@ -12,23 +12,23 @@ Welcome to the Inventory Management Challenge! Efficient inventory management is
 
 Questions: 
 
-Stock Analysis & Inventory Levels
+### Stock Analysis & Inventory Levels
 1. Which product category has the highest total stock quantity across all products?
 2. How many products currently have stock quantities below their reorder point?
 3. What minimum order quantity is required for a company to restock all products below the reorder point?
 
 
-Supplier & Restocking Performance
+### Supplier & Restocking Performance
 4. Which supplier has the highest average lead time for restocking?
 5. What is the average time since the last restock for products marked as "Out of Stock"?
 6. Identify the months when the highest number of products were restocked - are there any seasonal trends?
 
 
-Cost & Pricing Analysis
+### Cost & Pricing Analysis
 7. Identify the top 5 most expensive products (by unit price) and their categories.
 8. Which product category has the fastest turnover based on stock quantity and lead time?
 
 
-Warehouse & Geographic Insights
+### Warehouse & Geographic Insights
 9. Which warehouse location has the highest number of products stored?
 10. Which country has the most stocked items, and which top 3 counties have the highest stocked quantities by different product categories? 
